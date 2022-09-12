@@ -42,7 +42,7 @@ body {
 
 .screen .form-input {
     width: 100%;
-    margin: 20px 20px;
+    margin: 20px 0px;
 }
 
 .screen h2 {
@@ -63,6 +63,7 @@ body {
     width: 100%;
     padding: 10px;
     border: 1px solid #555;
+    font-size: 16px;
 }
 
 .screen .form-input button {
@@ -81,7 +82,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0 20px;
+    padding: 0px 20px;
 }
 
 .chat-screen .header .logo {
